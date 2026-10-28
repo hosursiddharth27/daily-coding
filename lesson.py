@@ -9,3 +9,5 @@ for m in student["marks"]:
         print( m , "is good")
 
 print ( student["name"], round(avg(marks),2))
+
+print("Day 1 coding complete!")
